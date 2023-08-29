@@ -13,7 +13,7 @@ We'll play as a farmer who buys seeds, waits for them to harvest, then reap the 
 
 ## Screenshots
 
-![screenshots](./screenshots/screenshots.webp)
+![screenshots](./MGPlantVille/screenshots/screenshots.webp)
 
 ## Features
 1. Players start with $100
